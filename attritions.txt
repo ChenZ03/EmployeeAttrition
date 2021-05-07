@@ -1,0 +1,12 @@
+1) Age against Attrition
+2)Edu level vs Attrition
+3)Income vs Attrition
+4) Attrition vs overtime stats
+5) Attrition by job role
+6)Enviroment satisfication vs attrtion
+7) Working Years vs attrition
+8) Overtime vs attrition
+9) Decision Tree graph
+10) factors that affect attrition
+
+task : Change to subplots
