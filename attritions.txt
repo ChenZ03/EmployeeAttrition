@@ -5,8 +5,10 @@
 5) Attrition by job role
 6)Enviroment satisfication vs attrtion
 7) Working Years vs attrition
-8) Overtime vs attrition
+8) Job level vs attrition
 9) Decision Tree graph
 10) factors that affect attrition
 
-task : Change to subplots
+task : find reason for each graph and results
+
+task : make summary
